@@ -1,3 +1,3 @@
 <img src="./screenshots/Signin.png"/>
 
-<img src="./screenshots/Signup.png"/>
+<img src="./screenshots/signup.png"/>
